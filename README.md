@@ -7,22 +7,11 @@
   <a href="https://github.com/NedaIrvinCsondor"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-071B30?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
-
----
-
 <h2>About me</h2>
-
 
 <div style="margin-top: 10px">
   <p style="margin: 0">I am a detail oriented aspiring Cyber Security Professional with practical skills in SIEM log analysis, triage and escalation, incident response and report writing. I have developed these skills through hands-on learning in TryHackMe, Capture the Flag events and a Level 3 Cyber Security Course. I am continuing my professional development by taking courses, such as CompTIA Security+, Fortinet NSE, and attending Microsoft training events to familiarise myself with different tools.</p>
 </div>
-
-
-
-
-
----
-
 
 <h2>Ongoing Learning</h2>
 <ul>
@@ -57,4 +46,9 @@
 <li><h4>IT Support Professional - Google Coursera</h4>
 <p>This is the foundational course I took to learn about how computers, networks and operating systems work and how to troubleshoot common issues. I learned about encryption, authentication, network security protocols, malware types, network and cloud infrastructure.</p>
 </li>
-<ul>
+</ul>
+
+<h2>Work Experience</h2>
+<h4>Deputy Store Manager - Lidl (Dec 2019 - Jul 2026)</h4>
+<p>I managed a team of 32 colleagues in a busy retail environment, lead projects and presented in quarterly reviews with the Area Manager. Gained experience in clear written communication by writing reports about store performance to the Head of Sales. I also have strong attention to detail and keep to procedures. I learned how to prioritise effectively and problem solve in high pressure situations.
+</p>
