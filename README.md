@@ -14,65 +14,47 @@
 
 
 <div style="margin-top: 10px">
-  <p style="margin: 0">I am a detail oriented aspiring Cyber Security Professional with practical skills in SIEM log analysis, triage and escalation, incident response and report writing. I have developed these skills through hands-on learning in TryHackMe, ImmersiveLabs, Capture the Flag events and a Level 3 Cyber Security Course. I am continuing my professional development by taking courses, such as CompTIA Security+ and attending Microsoft training events to familiarise myself with different tools and options.</p>
+  <p style="margin: 0">I am a detail oriented aspiring Cyber Security Professional with practical skills in SIEM log analysis, triage and escalation, incident response and report writing. I have developed these skills through hands-on learning in TryHackMe, Capture the Flag events and a Level 3 Cyber Security Course. I am continuing my professional development by taking courses, such as CompTIA Security+, Fortinet NSE, and attending Microsoft training events to familiarise myself with different tools.</p>
 </div>
+
+
 
 
 
 ---
 
-## Skills & Labs
 
-| Skill                                               | Associated Project/Lab                                             |
-|------------------------------------------------------|----------------------------------------------------------------------|
-| IT Support Professional                         | [Google Coursera](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a3453cf-575e-4abb-b3ae-e17ec5f84566" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)    |
+<h2>Ongoing Learning</h2>
+<ul>
+<li><h4>NCFE Level 3 Certificate in Cyber Security Practices</h4> 
+<p>In this 12 week course course I have learned about laws and best practices in cyber security and secured networks using firewalls, VPNs and intrusion detection. I also gained a strong understanding about how malware, phishing and ransomware work, how to run a risk assessment and created an incident response plan. I learned about the CIA triad, and common frameworks like NIST, NCSC and MITRE ATT&CK. I have completed the course and I am currently waiting for my tutor to mark my work.</p></li>
 
----
+<li><h4>Cybersecurity Professional Certificate - Google Coursera</h4>
+<p>In this course I have built on my knowledge of frameworks from the Level 3 course and started to use SIEM tools, such as Splunk, Elastic and Chronicle. I will be continuing the course to learn SQL and Python.</p></li>
 
-## Training and Certifications
+<li><h4>CompTIA Security+</h4>
+<p>I have finished a CompTIA Security+ course where I learned more in depth about the CIA triad, security controls, NIST and ISO 27001 frameworks, motives and capabilities of threat actors and vulnerability types. I also learned about different protocols, such as SSH, HTTPS, SMTP, TLS and how they are used, along with Identity and Access Management and incident response phases (preparation, detection, containment, eradication, recovery and lessons learned). I will be taking the exam in 2027.</p></li>
 
-**Ongoing Learning**
-- NCFE Level 3 Certificate in Cyber Security Practices
-- NSE1 Cybersecurity
+<li><h4>Microsoft SC-900 and SC-200</h4>
+<p>I have attended Microsoft Virtual Training days for SC-900 - Introduction to Microsoft security and SC-200 - Predict and Defend Against Cybersecurity Threats. I have experience in applying the Zero Trust model by managing Identity and Access in Microsoft Entra ID and what protections Microsoft offers with Azure Firewall, Defender XDR, Sentinel and Purview. I also know how to use KQL to query Microsoft's SIEM tools, how to perform incident triage, response and containment across endpoints. I will be taking the exams in 2027.</p></li>
+</ul>
 
-**Certifications**
-- Google IT Support Professional – Coursera  
+<h2>Hands-on experience</h2>
+<ul>
+<li><h4>Microsoft Shadow Hunter and Into The Breach</h4>
+<p>These are immersive Microsoft training events in which I gained hands-on experience with Microsoft Defender XDR and Microsoft Defender for Cloud. I investigated vulnerabilities, exposed endpoints and attack paths and used threat hunting and investigation tools to analyse alerts and identify attacks. I have really enjoyed these events and have signed up for another one called On the Brink, which will focus on using Purview.</p></li>
 
-**Courses** 
-- Introduction to Cybersecurity – TryHackMe
+<li><h4>SOC Level 1 - TryHackMe</h4>
+<p>I have been completing rooms in this path on TryHackMe. I have a strong understanding of what tasks and responsibilities SOC teams have and gained hands-on experience with using different EDR and SIEM tools. I have learned what logs are kept and can be analysed on Windows and Linux (Sysmon, WinEventLogs, Windows System Logs, Linux authentification logs and system logs) and how to detect threats in Windows and Linux. I have also learned how to use Wireshark to analyse packets and find anomalies in the network.</p></li>
+</ul>
 
-**Virtual Job Simulations**
-- Datacom Cyber Security Operations – Forage
+<h2>Completed Learning</h2>
+<ul>
+<li><h4>Fortinet NSE 1 and NSE2</h4>
+<p>In these courses I expanded my knowledge of cyber threats, attack impacts, general security principles and core concepts of cyber security. I then started learning about Fortinet tools and ecosystem for endpoints, cloud and network security. I learned about the capabilities of Next Generation Firewalls and Fortinet NGFW funtions.</p>
+</li>
 
----
-
-## Tools
-
-### 🔌 Network Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-</div>
-
-### 💻 Operating Systems & Virtualization
-<div>
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-</div>
-
-### 📊 SIEM & Incident Response
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-red?style=for-the-badge&logo=mitre&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TryHackMe-2C3E50?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</div>
-
-### 🛠️ Scripting & Dev Tools
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+<li><h4>IT Support Professional - Google Coursera</h4>
+<p>This is the foundational course I took to learn about how computers, networks and operating systems work and how to troubleshoot common issues. I learned about encryption, authentication, network security protocols, malware types, network and cloud infrastructure.</p>
+</li>
+<ul>
