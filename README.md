@@ -2,7 +2,6 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nedairvincsondor"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-062B52.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nedairvincsondor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-061F3B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/nedairvincsondor"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-071B30?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
