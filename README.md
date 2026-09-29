@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/nedairvincsondor"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-062B52.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nedairvincsondor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-061F3B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/NedaIrvinCsondor"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-071B30?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/nedairvincsondor"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-071B30?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
 <h2>About me</h2>
@@ -30,20 +30,20 @@
 
 <h2>Hands-on experience</h2>
 <ul>
-<li><h4>Microsoft Shadow Hunter and Into The Breach</h4>
+<li><h4>Microsoft <a href="https://www.credly.com/badges/67a59f11-e91e-40cb-86c2-cc7429fd91fd/public_url" target="_blank">Shadow Hunter</a> and <a href="https://www.credly.com/badges/67a59f11-e91e-40cb-86c2-cc7429fd91fd/public_url" target="_blank">Into The Breach</a></h4>
 <p>These are immersive Microsoft training events in which I gained hands-on experience with Microsoft Defender XDR and Microsoft Defender for Cloud. I investigated vulnerabilities, exposed endpoints and attack paths and used threat hunting and investigation tools to analyse alerts and identify attacks. I have really enjoyed these events and have signed up for another one called On the Brink, which will focus on using Purview.</p></li>
 
-<li><h4>SOC Level 1 - TryHackMe</h4>
+<li><h4><a href="https://tryhackme.com/p/nedairvincsondor" target="_blank">SOC Level 1</a> - TryHackMe</h4>
 <p>I have been completing rooms in this path on TryHackMe. I have a strong understanding of what tasks and responsibilities SOC teams have and gained hands-on experience with using different EDR and SIEM tools. I have learned what logs are kept and can be analysed on Windows and Linux (Sysmon, WinEventLogs, Windows System Logs, Linux authentification logs and system logs) and how to detect threats in Windows and Linux. I have also learned how to use Wireshark to analyse packets and find anomalies in the network.</p></li>
 </ul>
 
 <h2>Completed Learning</h2>
 <ul>
-<li><h4>Fortinet NSE 1 and NSE2</h4>
+<li><h4>Fortinet <a href="https://www.credly.com/badges/a0db9479-4059-43d0-8b66-af795729cf60/public_url" target="_blank">NSE 1</a> and <a href="https://www.credly.com/badges/cff7c5fb-9e36-44c7-b78b-ec0465073973/public_url" target="_blank">NSE 2</a></h4>
 <p>In these courses I expanded my knowledge of cyber threats, attack impacts, general security principles and core concepts of cyber security. I then started learning about Fortinet tools and ecosystem for endpoints, cloud and network security. I learned about the capabilities of Next Generation Firewalls and Fortinet NGFW funtions.</p>
 </li>
 
-<li><h4>IT Support Professional - Google Coursera</h4>
+<li><h4><a href="https://www.credly.com/badges/6a3453cf-575e-4abb-b3ae-e17ec5f84566/public_url" target="_blank">IT Support Professional</a> - Google Coursera</h4>
 <p>This is the foundational course I took to learn about how computers, networks and operating systems work and how to troubleshoot common issues. I learned about encryption, authentication, network security protocols, malware types, network and cloud infrastructure.</p>
 </li>
 </ul>
