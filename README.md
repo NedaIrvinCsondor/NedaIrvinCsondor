@@ -50,5 +50,5 @@
 
 <h2>Work Experience</h2>
 <h4>Deputy Store Manager - Lidl (Dec 2019 - Jul 2026)</h4>
-<p>I managed a team of 32 colleagues in a busy retail environment, lead projects and presented in quarterly reviews with the Area Manager. Gained experience in clear written communication by writing reports about store performance to the Head of Sales. I also have strong attention to detail and keep to procedures. I learned how to prioritise effectively and problem solve in high pressure situations.
+<p>I managed a team of 32 colleagues in a busy retail environment, led projects and presented in quarterly reviews with the Area Manager. Gained experience in clear written communication by writing reports about store performance to the Head of Sales. I also have strong attention to detail and keep to procedures. I learned how to prioritise effectively and problem solve in high pressure situations.
 </p>
