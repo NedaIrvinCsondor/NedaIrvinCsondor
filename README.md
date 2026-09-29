@@ -14,11 +14,7 @@
 
 
 <div style="margin-top: 10px">
-  <p style="margin: 0">----</p>
-  <p style="margin: 0">----</p>
-  <p style="margin: 0">----</p>
-  <p style="margin: 0">----</p>
-  <p style="margin: 0">----</p>
+  <p style="margin: 0">I am a detail oriented aspiring Cyber Security Professional with practical skills in SIEM log analysis, triage and escalation, incident response and report writing. I have developed these skills through hands-on learning in TryHackMe, ImmersiveLabs, Capture the Flag events and a Level 3 Cyber Security Course. I am continuing my professional development by taking courses, such as CompTIA Security+ and attending Microsoft training events to familiarise myself with different tools and options.</p>
 </div>
 
 
@@ -29,7 +25,7 @@
 
 | Skill                                               | Associated Project/Lab                                             |
 |------------------------------------------------------|----------------------------------------------------------------------|
-| IT Support Professional                         | [Google Coursera](https://github.com/NedaIrvinCsondor)    |
+| IT Support Professional                         | [Google Coursera](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a3453cf-575e-4abb-b3ae-e17ec5f84566" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)    |
 
 ---
 
