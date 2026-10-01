@@ -9,7 +9,7 @@
 <h2>About me</h2>
 
 <div style="margin-top: 10px">
-  <p style="margin: 0">I am a detail oriented aspiring Cyber Security Professional with practical skills in SIEM log analysis, triage and escalation, incident response and report writing. I have developed these skills through hands-on learning in TryHackMe, Capture the Flag events and a Level 3 Cyber Security Course. I am continuing my professional development by taking courses, such as CompTIA Security+, Fortinet NSE, and attending Microsoft training events to familiarise myself with different tools.</p>
+  <p style="margin: 0">I am a detail oriented Junior Cyber Security Analyst with practical skills in SIEM log analysis, triage and escalation, incident response and report writing. I have developed these skills through hands-on learning in TryHackMe, Capture the Flag events and a Level 3 Cyber Security Course. I am continuing my professional development by taking courses, such as CompTIA Security+, Fortinet NSE, and attending Microsoft training events to familiarise myself with different tools.</p>
   <p>I enjoy learning, developing and challenging myself. I also bring valuable skills I have gained in my previous professional role, including clear communication and presentation skills, project management, teamwork, attention to detail, strong procedure following, prioritisation and problem solving.</p>
 </div>
 
